@@ -188,6 +188,11 @@
     align-items: center;
     transform: translateX(-800px);
   }
+  .menu-list
+  {
+    width:80%;
+    background-color: saddlebrown;
+  }
   .main-menu.show {
     transition: 1.8s all ease;
   }   
