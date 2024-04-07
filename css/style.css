@@ -653,7 +653,7 @@
   .hotel-spa {
     width: 100%;
     height: 600px;
-    background: url(../image/Main-Slider-1.jpg)no-repeat;
+    background: url(../image/Fixed-1.jpg)no-repeat;
     background-size: cover;
     background-size: 100% 100%;
     background-attachment: fixed;
@@ -812,7 +812,7 @@
     height: 80vh;
     width: 100%;
     margin-top: 100px;
-    background: url(../image/Main-Slider-1.jpg)no-repeat;
+    background: url(../image/Fixed-2.jpg)no-repeat;
     background-size: cover;
     background-size: 100% 100%;
     background-attachment: fixed;
@@ -1144,7 +1144,7 @@
   }
   .back-pic {
     width: 100%;
-    background: url(../image/Main-Slider-1.jpg)no-repeat;
+    background: url(../image/Fixed-3.jpg)no-repeat;
     background-size: cover;
     background-size: 100% 100%;
     background-attachment: fixed;
